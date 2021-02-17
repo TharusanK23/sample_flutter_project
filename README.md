@@ -1,16 +1,19 @@
 # eStore
 
-A new Flutter project.
+The eStore is eCommerce Flutter project.
+
+## About this project
+
+This project is not completed. Only user authentication and categories are completed, Not implemented APIs for other screens. Other screen data hardcoded.
+
+In this project backend side did with Node js and MongoDB. Some data Hardcoded in DB
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+How to clone:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Clone: 
+ ##### Paste this link in your terminal
+git clone https://github.com/TharusanK23/sample_flutter_project.git
