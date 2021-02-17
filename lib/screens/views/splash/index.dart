@@ -1,0 +1,1 @@
+export 'package:eStore/screens/views/splash/splash_view.dart';

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="300" viewBox="0 0 400 300">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#f7f7f7"/>
+    </radialGradient>
+    <clipPath id="clip-placeholder_">
+      <rect width="400" height="300"/>
+    </clipPath>
+  </defs>
+  <g id="placeholder_" data-name="placeholder " clip-path="url(#clip-placeholder_)">
+    <rect width="400" height="300" fill="#fff"/>
+    <rect id="Rectangle_1565" data-name="Rectangle 1565" width="400" height="300" fill="url(#radial-gradient)"/>
+    <g id="image" transform="translate(132 49.837)" opacity="0.477">
+      <g id="Group_1988" data-name="Group 1988" transform="translate(0 43.163)">
+        <g id="Group_1987" data-name="Group 1987">
+          <path id="Path_1250" data-name="Path 1250" d="M132.063,43.163H4.773A4.773,4.773,0,0,0,0,47.936V152.154a4.773,4.773,0,0,0,4.773,4.773H132.063a4.773,4.773,0,0,0,4.773-4.773V47.936A4.773,4.773,0,0,0,132.063,43.163Zm-4.773,104.218H9.547V52.71H127.289v94.671Z" transform="translate(0 -43.163)" fill="#d6d6d6"/>
+        </g>
+      </g>
+      <g id="Group_1990" data-name="Group 1990" transform="translate(33.573 64.325)">
+        <g id="Group_1989" data-name="Group 1989">
+          <path id="Path_1251" data-name="Path 1251" d="M143.121,122.344a17.5,17.5,0,1,0,17.5,17.5A17.523,17.523,0,0,0,143.121,122.344Zm0,25.458a7.955,7.955,0,1,1,7.955-7.955A7.964,7.964,0,0,1,143.121,147.8Z" transform="translate(-125.619 -122.344)" fill="#d6d6d6"/>
+        </g>
+      </g>
+      <g id="Group_1992" data-name="Group 1992" transform="translate(28.085 103.148)">
+        <g id="Group_1991" data-name="Group 1991">
+          <path id="Path_1252" data-name="Path 1252" d="M171.266,268.04a4.767,4.767,0,0,0-4.764.465l-61.417,44.074,5.566,7.757,59.17-42.462,37.261,16.99,3.962-8.686Z" transform="translate(-105.085 -267.608)" fill="#d6d6d6"/>
+        </g>
+      </g>
+      <g id="Group_1994" data-name="Group 1994" transform="translate(2.572 97.158)">
+        <g id="Group_1993" data-name="Group 1993" transform="translate(0 0)">
+          <rect id="Rectangle_1567" data-name="Rectangle 1567" width="9.547" height="63.127" transform="translate(0 8.471) rotate(-62.53)" fill="#d6d6d6"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
