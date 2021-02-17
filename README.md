@@ -6,7 +6,13 @@ The eStore is eCommerce Flutter project.
 
 This project is not completed. Only user authentication and categories are completed, Not implemented APIs for other screens. Other screen data hardcoded.
 
-In this project backend side did with Node js and MongoDB. Some data Hardcoded in DB
+In this project backend side did with 
+- Node js 
+- MongoDB
+
+Some data Hardcoded in DB,
+
+- Backend hosting in heroku
 
 ## Getting Started
 
