@@ -24,6 +24,10 @@ How to clone:
  ##### Paste this link in your terminal
 git clone https://github.com/TharusanK23/sample_flutter_project.git
 
+### Auth
+- User mobile:- +9477123456789
+- Password:- Admin@01
+
 ## Screenshots
 
  |![Image_1](https://github.com/TharusanK23/sample_flutter_project/blob/master/screenshots/image_1.png?raw=true)| ![Image_2](https://github.com/TharusanK23/sample_flutter_project/blob/master/screenshots/image_2.png?raw=true)|![Image_3](https://github.com/TharusanK23/sample_flutter_project/blob/master/screenshots/image_3.png?raw=true)|![Image_4](https://github.com/TharusanK23/sample_flutter_project/blob/master/screenshots/image_4.png?raw=true)|
